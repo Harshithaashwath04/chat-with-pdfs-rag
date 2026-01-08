@@ -1,0 +1,19 @@
+streamlit
+python-dotenv
+requests
+PyPDF2
+
+
+# LangChain Core + Tools
+langchain
+langchain-community
+
+# Vector DB + Embeddings for Chat with PDF
+faiss-cpu
+sentence-transformers
+
+# For PDF Quiz Export
+reportlab
+
+#langchain_google_genai
+# google-generativeai
